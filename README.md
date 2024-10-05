@@ -46,6 +46,6 @@ Follow the steps below to set up and run the project locally.
 ## Contributing
 - Special thanks to
 - Shlok Koirala: https://github.com/shlok-py
-- Anshu Patel:
+- Anshu Patel: https://github.com/napsnu
 - for valuable contribution in Colorization models.
 - Also Open Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request. Please ensure your changes are well-documented.
